@@ -61,7 +61,7 @@ I use **Gentoo Linux** and enjoy understanding the systems, architecture, and to
 ## Familiarity
 
 <p align="center">
-  <img src="./proficiency.svg" alt="Technology familiarity chart" width="100%" />
+  <img src="./61yx-proficiency.svg" alt="Technology familiarity chart" width="100%" />
 </p>
 
 ## Projects
