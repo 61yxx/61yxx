@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="620" viewBox="0 0 1120 620" role="img" aria-labelledby="title">
+<title id="title">61yx — Technology Stack</title>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FFFFFF"/>
+    <stop offset="1" stop-color="#F2F8FF"/>
+  </linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#A8CEF4"/>
+    <stop offset="1" stop-color="#5D99D5"/>
+  </linearGradient>
+  <style>
+    .heading { font: 700 23px Inter, "Segoe UI", Arial, sans-serif; fill: #477FAF; letter-spacing: 1.1px; }
+    .category { font: 700 16px Inter, "Segoe UI", Arial, sans-serif; fill: #477FAF; letter-spacing: .5px; }
+    .label { font: 500 15px Inter, "Segoe UI", Arial, sans-serif; fill: #344B61; }
+    .value { font: 700 14px Inter, "Segoe UI", Arial, sans-serif; fill: #477FAF; }
+  </style>
+</defs>
+<rect width="1120" height="620" rx="22" fill="url(#background)"/>
+<text x="42" y="54" class="heading">TECHNOLOGY STACK</text>
+<path d="M42 78H1078" stroke="#D8E8F8" stroke-width="2"/>
+
+<text x="42" y="112" class="category">LANGUAGES &amp; WEB</text>
+<text x="606" y="112" class="category">FRAMEWORKS, DATABASES &amp; TOOLS</text>
+<g transform="translate(42 132)">
+<g transform="translate(0 0)">
+<text x="0" y="14" class="label">C++</text>
+<text x="472" y="14" text-anchor="end" class="value">85%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="401.20" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 49)">
+<text x="0" y="14" class="label">C#</text>
+<text x="472" y="14" text-anchor="end" class="value">45%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="212.40" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 98)">
+<text x="0" y="14" class="label">JavaScript</text>
+<text x="472" y="14" text-anchor="end" class="value">90%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="424.80" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 147)">
+<text x="0" y="14" class="label">HTML</text>
+<text x="472" y="14" text-anchor="end" class="value">92%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="434.24" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 196)">
+<text x="0" y="14" class="label">CSS</text>
+<text x="472" y="14" text-anchor="end" class="value">90%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="424.80" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 245)">
+<text x="0" y="14" class="label">Rust</text>
+<text x="472" y="14" text-anchor="end" class="value">92%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="434.24" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 294)">
+<text x="0" y="14" class="label">Python</text>
+<text x="472" y="14" text-anchor="end" class="value">45%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="212.40" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 343)">
+<text x="0" y="14" class="label">React</text>
+<text x="472" y="14" text-anchor="end" class="value">40%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="188.80" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 392)">
+<text x="0" y="14" class="label">Ruby</text>
+<text x="472" y="14" text-anchor="end" class="value">40%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="188.80" height="8" rx="4" fill="url(#bar)"/>
+</g>
+</g>
+<g transform="translate(606 132)">
+<g transform="translate(0 0)">
+<text x="0" y="14" class="label">Tailwind CSS</text>
+<text x="472" y="14" text-anchor="end" class="value">78%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="368.16" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 49)">
+<text x="0" y="14" class="label">Node.js</text>
+<text x="472" y="14" text-anchor="end" class="value">78%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="368.16" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 98)">
+<text x="0" y="14" class="label">Flutter</text>
+<text x="472" y="14" text-anchor="end" class="value">45%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="212.40" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 147)">
+<text x="0" y="14" class="label">React Native</text>
+<text x="472" y="14" text-anchor="end" class="value">38%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="179.36" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 196)">
+<text x="0" y="14" class="label">MySQL</text>
+<text x="472" y="14" text-anchor="end" class="value">75%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="354.00" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 245)">
+<text x="0" y="14" class="label">PostgreSQL</text>
+<text x="472" y="14" text-anchor="end" class="value">75%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="354.00" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 294)">
+<text x="0" y="14" class="label">Docker</text>
+<text x="472" y="14" text-anchor="end" class="value">75%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="354.00" height="8" rx="4" fill="url(#bar)"/>
+</g>
+<g transform="translate(0 343)">
+<text x="0" y="14" class="label">Bash</text>
+<text x="472" y="14" text-anchor="end" class="value">75%</text>
+<rect x="0" y="25" width="472" height="8" rx="4" fill="#E1EDF8"/>
+<rect x="0" y="25" width="354.00" height="8" rx="4" fill="url(#bar)"/>
+</g>
+</g>
+<path d="M42 590H1078" stroke="#D8E8F8" stroke-width="2"/>
+<circle cx="42" cy="590" r="4" fill="#8CBCEB"/>
+<circle cx="1078" cy="590" r="4" fill="#8CBCEB"/>
+</svg>
