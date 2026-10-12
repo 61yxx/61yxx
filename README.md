@@ -77,5 +77,5 @@ My repositories contain my projects, experiments and ongoing work.
 ---
 
 <div align="center">
-  <sub>61yx · PUMPUM PURIM</sub>
+  <sub>· 61yx ·</sub>
 </div>
