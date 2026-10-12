@@ -11,13 +11,10 @@
 
 ## About
 
-I'm a programmer and math enthusiast interested in how software works across the stack — from low-level programming to web and application development.
+I'm a programmer and math enthusiast.
 
-My main interests are **Rust, C++, JavaScript, HTML and CSS**. I also enjoy exploring different languages, frameworks, tools, and approaches to software architecture instead of limiting myself to a single ecosystem.
-
-I use **Gentoo Linux** and enjoy understanding the systems, architecture, and tooling behind the software I work with.
-
-`currently: im tired. anyway, here's some code.`
+My main interests are **Rust and C++**. I also enjoy exploring different languages, frameworks and tools.
+I use **Gentoo Linux** btw
 
 ## Technologies
 
@@ -67,6 +64,7 @@ I use **Gentoo Linux** and enjoy understanding the systems, architecture, and to
 ## Projects
 
 My repositories contain my projects, experiments and ongoing work.
+(Most of them are private for now, working into something.)
 
 <p align="center">
   <a href="https://github.com/61yx?tab=repositories">
